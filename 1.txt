@@ -1,2 +1,20 @@
-the whole world is waiting for yout 
+  157  git status  158  git add .
+  159  git status
+  160  git commit -m "the world "
+  161  git status
+  162  git log
+  163  git shwow the world
+  164  git show fc9b367db5f32fc027d13e4ccc2cde345b954c12
+  165  git push  origin master
+  166  history
+
+
+
+
+
+
+
+
+
+:wq
 
